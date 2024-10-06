@@ -1,0 +1,11 @@
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.csproj.AssemblyReference.cache
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.AssemblyInfoInputs.cache
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.AssemblyInfo.cs
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.csproj.CoreCompileInputs.cache
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.MvcApplicationPartsAssemblyInfo.cache
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.RazorAssemblyInfo.cache
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.RazorAssemblyInfo.cs
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.dll
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\refint\app2.dll
+D:\coding\dotnet\app2-TailwindIntergrated\obj\Debug\net6.0\app2.pdb
